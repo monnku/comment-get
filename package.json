@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http": "^0.0.0",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
+    "node-fetch": "^2.7.0"
+  }
+}
